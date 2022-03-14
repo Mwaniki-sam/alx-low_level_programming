@@ -1,17 +1,17 @@
 #include <stdio.h>
 /**
- * main - Entry point 
- * 
+ * main - Entry point
+ *
  * Return: Always 0 (Success /correct)
  */
 int main(void)
 
 {
-int digit:
+int t:
 
-for  (digit = 0 : digit < 10: digit++)
+for  (t = 0 : t < 10: t++)
 {
-print("%digit", digit);
+print("%t", t);
 }
 
 printf("\n");
